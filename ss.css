@@ -1,0 +1,36 @@
+.hero {
+  background: linear-gradient(to right, #ffffff 50%, #cddbc4 50%);
+}
+img{
+	position: absolute;
+	left: 33%;
+	bottom: 37%;
+}
+section{
+    position: absolute;
+	right: 33%;
+	bottom: 43%;
+	border: 2px;
+	height: 222px;
+	width: 288px;
+	background-color: #e8e6e6;
+}
+h2{
+	position: absolute;
+	right: 22%;
+}
+p{
+	right: 33%;
+	font-size: smaller;
+	position: absolute;
+	bottom: 1%;
+}
+body{
+	  font-family: "Inter", sans-serif;
+
+}
+div{
+	position: absolute;
+	right: 1%;
+	bottom: 50%;
+}
